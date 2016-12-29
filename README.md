@@ -1,6 +1,6 @@
-# MemoryToMemoryDataTransfer-
+# MemoryToMemoryDataTransfer
 Link to the report:
-[final.docx](https://github.com/Poojabafnaprakash/MemoryToMemoryDataTransfer-/files/676580/final.docx)
+[ProjectReport.docx](https://github.com/Poojabafnaprakash/MemoryToMemoryDataTransfer-/files/676580/final.docx)
 
 A Design Example: Data Transfer from memory to memory     
 
